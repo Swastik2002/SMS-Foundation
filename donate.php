@@ -67,8 +67,8 @@
                         <ul>
                             <a href="donate.html">
                             <li><div class="donta-btn">
-                                <p>Please make your</p>
-                                <strong>Donation</strong>
+                                <p>Pleaseprovide your</p>
+                                <strong>Donation Details</strong>
                             </div></li>
 			    </a>
                         </ul>
